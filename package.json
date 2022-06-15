@@ -1,0 +1,24 @@
+{
+  "name": "apple-music-animated-album-artwork",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "build": "spicetify-creator",
+    "release": "spicetify-creator --out=dist --minify",
+    "watch": "spicetify-creator --watch"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "@types/react": "^18.0.12",
+    "@types/react-dom": "^18.0.5",
+    "spicetify-creator": "^1.0.10"
+  },
+  "dependencies": {
+    "@supabase/supabase-js": "^1.35.3",
+    "axios": "^0.27.2",
+    "cors": "^2.8.5",
+    "express": "^4.18.1",
+    "m3u8-parser": "^4.7.1",
+    "node-hls-downloader": "^2.2.0"
+  }
+}

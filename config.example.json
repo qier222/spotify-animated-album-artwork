@@ -1,0 +1,16 @@
+{
+  "api": "http://127.0.0.1:47234",
+  "cachePath": "./videos",
+  "ffmpegPath": "",
+  "express": {
+    "port": "47234"
+  },
+  "appleMusic": {
+    "token": "Bearer xxxxxxxxxxxxxxxxxxxxxxxxxxx"
+  },
+  "supabase": {
+    "url": "https://xxxxxx.supabase.co",
+    "serviceRoleApiKey": "xxxxxxxxxxxxx",
+    "tableName": "spotify"
+  }
+}

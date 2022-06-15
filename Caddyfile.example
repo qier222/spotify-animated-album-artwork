@@ -1,0 +1,11 @@
+https://your-domain.example.com
+
+encode gzip
+
+tls {
+    dns cloudflare your_cloudflare_api_key
+}
+
+reverse_proxy * {
+   to 127.0.0.1:47234
+}
