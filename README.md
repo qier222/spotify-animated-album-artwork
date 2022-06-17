@@ -10,7 +10,7 @@ https://user-images.githubusercontent.com/68148142/174134323-97a44859-cfb1-4877-
 
 1. Install [spicetify-cli](https://spicetify.app/docs/getting-started)
 2. Download the `spotify-animated-album-artwork.js` from [GitHub Releases](https://github.com/qier222/spotify-animated-album-artwork/releases).
-3. Use following command to install this spicetify extension, for more info visit: [spicetify docs](https://spicetify.app/docs/advanced-usage/extensions)
+3. Use the following command to install this spicetify extension, for more info visit: [spicetify docs](https://spicetify.app/docs/advanced-usage/extensions)
 
 ```bash
 spicetify config extensions spotify-animated-album-artwork.js
@@ -19,11 +19,11 @@ spicetify apply
 
 ## FAQ
 
-**Q**: Where are those animated album artworks come from?<br/>
+**Q**: Where are those animated album artworks from?<br/>
 **A**: Apple Music.
 <br/>
 <br/>
-**Q**: Why is this api took so long to respond?<br/>
+**Q**: Why did this api take so long to respond?<br/>
 
 ## Deploy to server
 
